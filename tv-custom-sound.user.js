@@ -11,6 +11,8 @@
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @grant        unsafeWindow
+// @updateURL    https://raw.githubusercontent.com/ywtaoo/tradingview_sound_customization/main/tv-custom-sound.user.js
+// @downloadURL  https://raw.githubusercontent.com/ywtaoo/tradingview_sound_customization/main/tv-custom-sound.user.js
 // ==/UserScript==
 
 (function () {
