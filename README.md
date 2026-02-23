@@ -18,10 +18,9 @@ A Tampermonkey userscript that replaces TradingView's built-in trade execution a
 
 ### Steps
 
-1. Open Tampermonkey Dashboard → **Utilities** tab
-2. Under **Install from file**, select `tv-custom-sound.user.js`
-3. Click **Install** on the confirmation page
-4. Navigate to [TradingView](https://www.tradingview.com/chart/) — the script auto-activates
+1. Click on this link to install the script directly: **[Install tv-custom-sound.user.js](https://raw.githubusercontent.com/ywtaoo/tradingview_sound_customization/main/tv-custom-sound.user.js)**
+2. Tampermonkey will automatically open a new tab. Click the **Install** button.
+3. Navigate to [TradingView](https://www.tradingview.com/chart/) — the script auto-activates.
 
 ## Usage
 
